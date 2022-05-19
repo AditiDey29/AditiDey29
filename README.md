@@ -6,11 +6,13 @@
 
 ### Favourite tools:
 <p align="left"> 
-  <a href=""><img height="40" src="python.png"></a>&nbsp;&nbsp;
-  <a href=""><img height="40" src="c++.png"></a>&nbsp;&nbsp;
-  <a href=""><img height="40" src="c.png"></a>&nbsp;&nbsp;
-  <a href=""><img height="40" src="tf.png"></a>&nbsp;&nbsp;
-  <a href=""><img height="40" src="yolo.png"></a>&nbsp;&nbsp;
+  <img height="40" src="python.png">&nbsp;&nbsp;
+  <img height="40" src="c++.png">&nbsp;&nbsp;
+  <img height="40" src="c.png">&nbsp;&nbsp;
+  <img height="40" src="tf.png">&nbsp;&nbsp;
+  <img height="40" src="yolo.png">&nbsp;&nbsp;
+  <img height="40" src="html.png">&nbsp;&nbsp;
+  
 </p>
 
 ### Connect with me:
