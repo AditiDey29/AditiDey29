@@ -1,8 +1,8 @@
 # Hi, I’m Aditi! 👋
 - 🚀 A Pre-Final year BTech Undergraduate at IIT Gandhinagar, India.
 - 👨🏻‍🎓 Majoring in Electrical Engineering and minoring in Computer Science.
-- 🌱 Passionate about competitive programming. I go by the name "aditi_dey29" on various online judges.
 - 👀 Love building and deploying ML and AI models to solve real world problems.
+- 🌱 Passionate about competitive programming. I go by the name "aditi_dey29" on various online judges.
 
 ### Favourite tools:
 <p align="left"> 
