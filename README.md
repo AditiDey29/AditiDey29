@@ -17,7 +17,7 @@
 
 ### Connect with me:
 <p align="left"> 
-  <a target = "blank" href="https://www.linkedin.com/in/aditi-dey-609333204/"><img height="40" src="linkedin.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aditi-dey-609333204/" target="blank"><img height="40" src="linkedin.png"></a>&nbsp;&nbsp;
 </p>
 
 <!---
