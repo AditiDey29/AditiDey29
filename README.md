@@ -1,12 +1,21 @@
 # Hi, I’m Aditi! 👋
-- 🚀 I'm Pre-Final year BTech Undergraduate at IIT Gandhinagar.
-- 🚀 I'm majoring in Electrical Engineering and minoring in Computer Science.
-- 🌱 I'm passionate about competitive programming. I go by the name "aditi_dey29" on various online judges.
-- 👀 I enjoy building and deploying ML and AI models to solve real world problems.
+- 🚀 A Pre-Final year BTech Undergraduate at IIT Gandhinagar, India.
+- 👨🏻‍🎓 Majoring in Electrical Engineering and minoring in Computer Science.
+- 🌱 Passionate about competitive programming. I go by the name "aditi_dey29" on various online judges.
+- 👀 Love building and deploying ML and AI models to solve real world problems.
+
+### Favourite tools:
+<p align="left"> 
+  <a href=""><img height="40" src="python.png"></a>&nbsp;&nbsp;
+  <a href=""><img height="40" src="c++.png"></a>&nbsp;&nbsp;
+  <a href=""><img height="40" src="c.png"></a>&nbsp;&nbsp;
+  <a href=""><img height="40" src="tf.png"></a>&nbsp;&nbsp;
+  <a href=""><img height="40" src="yolo.png"></a>&nbsp;&nbsp;
+</p>
 
 ### Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/aditi-dey-609333204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reuben-devanesan" height="30" width="40" /></a>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/aditi-dey-609333204/"><img height="40" src="linkedin.png"></a>&nbsp;&nbsp;
 </p>
 
 <!---
