@@ -15,6 +15,9 @@
   
 </p>
 
+<!-- ### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiDey29&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ### Connect with me:
 <p align="left"> 
   <a href="https://www.linkedin.com/in/aditi-dey-609333204/" target="blank"><img height="40" src="linkedin.png"></a>&nbsp;&nbsp;
